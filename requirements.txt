@@ -1,0 +1,1 @@
+These packages are part of the Python standard library and do not require separate installation. Therefore, they should not be included in a `requirements.txt` file or similar dependency specification.
